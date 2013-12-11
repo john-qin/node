@@ -1,0 +1,9 @@
+{
+	"name": "test",
+	"version": "0.0.1",
+	"description": "n/a",
+	"dependencies": {
+		"socket.io": "~0.9.16",
+		"mime": "~1.2.11"
+	}
+}
